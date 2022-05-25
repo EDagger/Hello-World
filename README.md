@@ -1,2 +1,5 @@
 # MyFirstRepository
-How to run: $ node HelloWorld.js
+How to run: 
+```sh
+  node HelloWorld.js
+```
