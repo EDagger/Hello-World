@@ -1,5 +1,5 @@
 # MyFirstRepository
 How to run: 
 ```sh
-  node HelloWorld.js
+$> node HelloWorld.js
 ```
